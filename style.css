@@ -1,0 +1,25 @@
+
+.btn-color{
+    background-color: #ff458f;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    height: 50px;
+}
+.background-color{
+    background-color: #fceae8;
+}
+.bg-color{
+    background-color: #ffa500;
+    border-radius: 15px;
+}
+.bg-color img{
+    width: 100px;
+}
+.text-color{
+    background-color: #da70d6;
+}
+.another-color{
+    background-color: #0000ff;
+}
+
