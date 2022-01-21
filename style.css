@@ -22,4 +22,7 @@
 .another-color{
     background-color: #0000ff;
 }
+.round{
+    border-radius: 15px;
+}
 
